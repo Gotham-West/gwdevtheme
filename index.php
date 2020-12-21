@@ -1,3 +1,3 @@
 <?php
-header( "Location: https://gothamwest.co" );
+header( "Location: https://gothamwest.studio/wp-admin" );
 exit();
